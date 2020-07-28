@@ -3,37 +3,24 @@
     "npm": true
   },
   "hyperdrive-daemon": {
-    "skip": true,
     "npm": true
   },
   "corestore": {
-"skip": true,
-
     "npm": true
   },
   "@corestore/networker": {
-"skip": true,
-
     "npm": true
   },
   "corestore-swarm-networking": {
-"skip": true,
-
     "npm": true
   },
   "hyperdrive": {
-"skip": true,
-
     "npm": true
   },
   "hyperdrive-daemon-client": {
-"skip": true,
-
     "npm": true
   },
   "@hyperspace/hyperdrive": {
-"skip": true,
-
     "npm": true
   }
 }
