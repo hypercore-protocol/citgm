@@ -1,6 +1,7 @@
 {
   "hyperspace": {
-    "npm": true
+    "npm": true,
+    "skip": true
   },
   "hyperdrive-daemon": {
     "npm": true
