@@ -6,7 +6,7 @@ name: Nightly CITGM
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/60 */4 * * *'
+    - cron:  '*/60 */8 * * *'
   push:
     branches: 
       - master
