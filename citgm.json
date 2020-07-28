@@ -1,0 +1,26 @@
+{
+  "hyperspace": {
+    "npm": true
+  },
+  "hyperdrive-daemon": {
+    "npm": true
+  },
+  "corestore": {
+    "npm": true
+  },
+  "@corestore/networker": {
+    "npm": true
+  },
+  "corestore-swarm-networking": {
+    "npm": true
+  },
+  "hyperdrive": {
+    "npm": true
+  },
+  "hyperdrive-daemon-client": {
+    "npm": true
+  },
+  "@hyperspace/hyperdrive": {
+    "npm": true
+  }
+}

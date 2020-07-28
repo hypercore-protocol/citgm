@@ -1,0 +1,15 @@
+{
+  "name": "@hyperspace/citgm",
+  "version": "1.0.0",
+  "description": "A Canary in the Gold Mine module for Hyperspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "citgm-all -l citgm.json"
+  },
+  "keywords": [],
+  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "citgm": "^7.1.1"
+  }
+}
