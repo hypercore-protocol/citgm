@@ -1,4 +1,10 @@
 {
+  "hypercore": {
+    "npm": true
+  },
+  "hyperswarm": {
+    "npm": true
+  },
   "hyperspace": {
     "npm": true
   },
