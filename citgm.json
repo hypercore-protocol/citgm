@@ -1,6 +1,7 @@
 {
   "hypercore": {
-    "npm": true
+    "npm": true,
+    "tags": ["latest", "next"]
   },
   "hyperswarm": {
     "npm": true
@@ -28,5 +29,9 @@
   },
   "@hyperspace/hyperdrive": {
     "npm": true
+  },
+  "autobase": {
+    "npm": true,
+    "tags": ["next"]
   }
 }
