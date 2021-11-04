@@ -4,7 +4,8 @@
     "tags": ["latest", "next"]
   },
   "hyperswarm": {
-    "npm": true
+    "npm": true,
+    "tags": ["latest", "next"]
   },
   "hyperspace": {
     "npm": true
@@ -13,7 +14,8 @@
     "npm": true
   },
   "corestore": {
-    "npm": true
+    "npm": true,
+    "tags": ["latest", "next"]
   },
   "@corestore/networker": {
     "npm": true
